@@ -6,11 +6,6 @@ Hi, i'm Will !
 *Other projects I made are not hosted on my personal github, but rather on school server and git spaces, so they'll don't appear in this chart*
 
 ### Other languages I know
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,javascript" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=cs,java,javascript"/>
 
 ## Links

@@ -10,3 +10,5 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will-cupa)](https://github.com/will-cupa/github-readme-stats&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will-cupa)](https://github.com/anuraghazra/github-readme-stats)

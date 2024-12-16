@@ -8,3 +8,5 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,php,javascript,html,css" />
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will-cupa)](https://github.com/will-cupa/github-readme-stats)

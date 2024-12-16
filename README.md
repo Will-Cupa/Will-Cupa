@@ -1,5 +1,6 @@
 Hi, i'm Will !
 
+I'm currently IT student at the IUT of Orsay.
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will-cupa&layout=compact&size_weight=0.5&count_weight=0.5)
 

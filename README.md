@@ -8,5 +8,3 @@ I'm currently IT student at the IUT of Orsay.
 
 ### Other languages I know
 <img src="https://skillicons.dev/icons?i=cs,java,javascript"/>
-
-## Links

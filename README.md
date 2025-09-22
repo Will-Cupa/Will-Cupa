@@ -7,4 +7,4 @@ I'm currently IT student at the IUT of Orsay.
 *Other projects I made are not hosted on my personal github, but rather on school server and git spaces, so they won't appear in this chart*
 
 ### Other languages I know
-<img src="https://skillicons.dev/icons?i=cs,java,javascript"/>
+<img src="https://skillicons.dev/icons?i=cs,javascript"/>
